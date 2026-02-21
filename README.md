@@ -1,4 +1,4 @@
-# app_projet3
+# app_projet3 groupe Seynabou Sow, Dioulde Mamadou Diallo et Aissata Deme
 
 A new Flutter project.
 
